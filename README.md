@@ -178,13 +178,12 @@ High contrast design for improved readability
 
 💡 Business Impact
 
-* 
 * This dashboard helps HR teams:
-* 
+ 
 * Identify high-risk employee segments
-* 
+ 
 * Understand salary-based attrition patterns
-* 
+ 
 * Improve retention strategies
-* 
+ 
 * Make data-driven workforce decisions
